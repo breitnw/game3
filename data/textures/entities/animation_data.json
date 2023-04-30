@@ -1,0 +1,26 @@
+{
+    "player/idle/": {
+        "durations": 9,
+        "tags": ["loop"]
+    },
+    "player/run/": {
+        "durations": 9,
+        "tags": ["loop"]
+    },
+    "player/jump/": {
+        "durations": 1,
+        "tags": []
+    },
+    "player/fall/": {
+        "durations": 9,
+        "tags": ["loop"]
+    },
+    "player/jump_squat/": {
+        "durations": 1,
+        "tags": []
+    },
+    "player/wall_slide/": {
+        "durations": [4, 1],
+        "tags": []
+    }
+}
